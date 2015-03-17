@@ -1,0 +1,7 @@
+name             'dns'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures dns'
+long_description 'Installs/Configures dns'
+version          '0.1.0'
